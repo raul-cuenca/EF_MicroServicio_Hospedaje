@@ -1,4 +1,4 @@
-package pe.cuenca.model.controller;
+package pe.cuenca.controller;
 
 import java.util.List;
 
